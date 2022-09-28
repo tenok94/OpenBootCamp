@@ -5,13 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5e8dd68-84f3-42a3-8cd5-3e9d88a42556" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Tema3/PrimeraParte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema3/SegundaParte.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjercicioTema3B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjercicioTema3B.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,13 +33,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.EjercicioTema3B">
+}</component>
+  <component name="RunManager" selected="Application.SegundaParte">
     <configuration name="EjercicioTema3A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjercicioTema3A" />
       <module name="OpenBootCamp" />
@@ -46,8 +54,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeraParte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tema3.PrimeraParte" />
+      <module name="OpenBootCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tema3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SegundaParte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tema3.SegundaParte" />
+      <module name="OpenBootCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tema3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SegundaParte" />
+        <item itemvalue="Application.PrimeraParte" />
         <item itemvalue="Application.EjercicioTema3B" />
         <item itemvalue="Application.EjercicioTema3A" />
       </list>

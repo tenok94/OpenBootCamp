@@ -8,8 +8,7 @@ public class EjercicioTema3B {
     public static void main(String[] args) {
         Coche miCoche = new Coche();
         miCoche.NPuerta();
-        miCoche.NPuerta();
-        System.out.println("Mi Coche tiene" + " " + miCoche.puertas + " " + "Puertas");
+        System.out.println("Mi Coche tiene ahora" + " " + miCoche.puertas + " " + "Puertas");
     }
 
 }

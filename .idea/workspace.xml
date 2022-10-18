@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5e8dd68-84f3-42a3-8cd5-3e9d88a42556" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/tema3/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/tema4/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tema3/PrimeraParte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tema3/PrimeraParte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema3/PrimeraParte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema3/SegundaParte.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,20 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.language"
   }
-}</component>
-  <component name="RunManager" selected="Application.SegundaParte">
-    <configuration name="EjercicioTema3A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjercicioTema3A" />
-      <module name="OpenBootCamp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.main">
     <configuration name="EjercicioTema3B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjercicioTema3B" />
       <module name="OpenBootCamp" />
@@ -54,11 +58,24 @@
       </method>
     </configuration>
     <configuration name="PrimeraParte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tema3.PrimeraParte" />
+      <option name="MAIN_CLASS_NAME" value="com.openbootcamp.tema3.PrimeraParte" />
       <module name="OpenBootCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tema3.*" />
+          <option name="PATTERN" value="com.openbootcamp.tema3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SegundaParte (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.openbootcamp.tema3.SegundaParte" />
+      <module name="OpenBootCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openbootcamp.tema3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,11 +84,24 @@
       </method>
     </configuration>
     <configuration name="SegundaParte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tema3.SegundaParte" />
+      <option name="MAIN_CLASS_NAME" value="com.openbootcamp.tema3.SegundaParte" />
       <module name="OpenBootCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tema3.*" />
+          <option name="PATTERN" value="com.openbootcamp.tema3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.openbootcamp.tema4.main" />
+      <module name="OpenBootCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openbootcamp.tema4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,10 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SegundaParte" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.PrimeraParte" />
+        <item itemvalue="Application.SegundaParte (1)" />
+        <item itemvalue="Application.SegundaParte" />
         <item itemvalue="Application.EjercicioTema3B" />
-        <item itemvalue="Application.EjercicioTema3A" />
       </list>
     </recent_temporary>
   </component>
@@ -109,5 +140,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

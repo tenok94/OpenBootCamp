@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5e8dd68-84f3-42a3-8cd5-3e9d88a42556" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/probando/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/probando/mani2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/tema5/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/tema8/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/tema9/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openbootcamp/probando/mani2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openbootcamp/probando/mani2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,55 +41,56 @@
     &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.openbootcamp.tema8.main">
-    <configuration name="com.openbootcamp.probando.main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.openbootcamp.probando.main" />
-      <module name="OpenBootCamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.openbootcamp.probando.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.openbootcamp.probando.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.openbootcamp.probando.main" />
-      <module name="OpenBootCamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.openbootcamp.probando.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.openbootcamp.tema8.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.openbootcamp.tema8.main" />
-      <module name="OpenBootCamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.openbootcamp.tema8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.main">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.openbootcamp.tema4.main" />
+      <option name="MAIN_CLASS_NAME" value="com.openbootcamp.tema9.main" />
       <module name="OpenBootCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.openbootcamp.tema4.*" />
+          <option name="PATTERN" value="com.openbootcamp.tema9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mani2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.openbootcamp.probando.mani2" />
+      <module name="OpenBootCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openbootcamp.probando.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mani2 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.openbootcamp.probando.mani2" />
+      <module name="OpenBootCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openbootcamp.probando.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mani2 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.openbootcamp.probando.mani2" />
+      <module name="OpenBootCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openbootcamp.probando.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.openbootcamp.tema8.main" />
-        <item itemvalue="Application.mani2" />
-        <item itemvalue="Application.com.openbootcamp.probando.main (1)" />
-        <item itemvalue="Application.com.openbootcamp.probando.main" />
         <item itemvalue="Application.main" />
+        <item itemvalue="Application.mani2" />
+        <item itemvalue="Application.mani2 (1)" />
+        <item itemvalue="Application.mani2 (5)" />
+        <item itemvalue="Application.mani2 (4)" />
       </list>
     </recent_temporary>
   </component>
